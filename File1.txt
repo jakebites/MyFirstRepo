@@ -1,2 +1,1 @@
-This is some text
-Hello I am adding text for the lab
+adding some text to the file
